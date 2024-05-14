@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hórarios 2ºA Técnico</title>
+    <style>
+        table, th, td{
+            border: 2.5px dashed red;
+            color: white;
+        }
+    </style>
+</head>
+<body style="background-color: black;">
+    <Table>
+        <tr>
+            <th style="padding: 40px;"></th>
+            <th style="padding: 40px;">Segunda</th>
+            <th style="padding: 40px;">Terça</th>
+            <th style="padding: 40px;">Quarta</th>
+            <th style="padding: 40px;">Quinta</th>
+            <th style="padding: 40px;">Sexta</th>
+        </tr>
+        <tr>
+            <td style="padding: 40px;">07:00</td>
+            <td style="padding: 40px;">Biologia</td>
+            <td style="padding: 40px;">Prog. Mobile</td>
+            <td style="padding: 40px;">História</td>
+            <td style="padding: 40px;">Banco de dados</td>
+            <td style="padding: 40px;">Geografia</td>
+        </tr>
+        <tr>
+            <td style="padding: 40px;">07:50</td>
+            <td style="padding: 40px;">História</td>
+            <td style="padding: 40px;">Prog. Mobile</td>
+            <td style="padding: 40px;">Sociologia</td>
+            <td style="padding: 40px;">Geografia</td>
+            <td style="padding: 40px;">Portugues</td>
+        </tr>
+        <tr>
+            <td style="padding: 40px;">08:40</td>
+            <td style="padding: 40px;">Matemática</td>
+            <td style="padding: 40px;">Portugues</td>
+            <td style="padding: 40px;">Proj. Vida</td>
+            <td style="padding: 40px;">Cie. Comp</td>
+            <td style="padding: 40px;">Matemática</td>
+        </tr>
+        <tr>
+            <td style="padding: 40px;">09:45</td>
+            <td style="padding: 40px;">Química</td>
+            <td style="padding: 40px;">Ed.Financeira</td>
+            <td style="padding: 40px;">Biologia</td>
+            <td style="padding: 40px;">Inglês</td>
+            <td style="padding: 40px;">Banco de dados</td>
+        </tr>
+        <tr>
+            <td style="padding: 40px;">10:35</td>
+            <td style="padding: 40px;">Front End</td>
+            <td style="padding: 40px;">Sociologia</td>
+            <td style="padding: 40px;">Matemática</td>
+            <td style="padding: 50px;">Front End</td>
+            <td style="padding: 40px;">Anal. de Sis.</td>
+        </tr>
+        <tr>
+            <td style="padding: 40px;">11:25</td>
+            <td style="padding: 40px;">Front End</td>
+            <td style="padding: 40px;">Anal. de Sis.</td>
+            <td style="padding: 40px;">Química</td>
+            <td style="padding: 50px;">Front End</td>
+            <td style="padding: 40px;">Cie. Comp</td>
+        </tr>
+    </Table>
+</body>
+</html>
